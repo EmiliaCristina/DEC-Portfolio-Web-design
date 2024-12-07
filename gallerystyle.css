@@ -1,0 +1,41 @@
+body{
+	margin:0;
+	padding:0;
+}
+ .container{
+	width:90%;
+	margin:10px auto;
+}
+.portfolio-menu{
+	text-align:center;
+}
+
+.portfolio-menu ul{
+	width: 100px;
+  z-index: 1;
+  background: white;
+  padding-top: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline;
+}
+
+.portfolio-menu  li{
+display: inline;
+}
+
+.portfolio-item{
+	width:100%;
+}
+.portfolio-item .item{
+	/*width:303px;*/
+	float:left;
+	margin-bottom:10px;
+}
+
+.ImgTitle{
+	color: black;
+	font-weight: 700;
+
+}
